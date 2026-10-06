@@ -1,3 +1,3 @@
 # BizControl
-Modular, Enterprise-level, Full suite FOSS for businesses
+Modular, Enterprise-like, Full suite FOSS for businesses
 (Work in progress)
