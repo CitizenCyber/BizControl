@@ -2,7 +2,7 @@
 Modular, Enterprise-like, Self-hosted, full-suite business management FOSS for MSMEs. Made specifically for India but can be used by businesses in other countries with some changes made to the source code.
 (Work in progress)
 
-# Note - This software is made for Windows OS only.
+## Note - This software is made for Windows OS only.
 
 BizControl can be used for the following -
 
