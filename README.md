@@ -4,9 +4,9 @@ Modular, Enterprise-like, Self-hosted, Lightweight, full-suite business manageme
 
 ## Note - This software is made for Windows OS only.
 
-BizControl can be used for the following -
+### BizControl can be used for the following ->
 
-- Invoice/Billing
+- Invoice/Billing (Does not have automatic product billing through barcode reading and invoice printing for customers. Relies on manual entry of products done by cashier in the software for billing)
 
 - Customer Management
 
@@ -14,15 +14,15 @@ BizControl can be used for the following -
 
 - Inventory Management
 
-- Business Analytics
+- Business Analytics (this module will be tailor-made for the business on request)
 
-- Business Reports
+- Business Reports (only Sales, Profit and Loss, Attendance & Salary Reports are generated)
 
 - Employee Management (Attendance, Salary & Leave Management)
 
 - Payments (does not have payment gateways integrated. Relies on the cashier & POS machines for confirming payments)
 
-- Cloud Backup and Restore
+- Cloud Backup and Restore (*BizControl* needs to be run as `administrator` for this feature to work, due to Microsoft Windows's security features)
 
 ## Prerequisites for using BizControl
 
